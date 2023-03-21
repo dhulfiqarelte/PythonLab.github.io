@@ -1,10 +1,8 @@
 import Image from 'next/Image';
-import Navbar from '@/pages/navbar'
 
 export default function Labs() {
     return (
     <>
-      <Navbar />
       <div className="section home-page">
         <div className="container">
           <div className="info-page">
@@ -30,7 +28,7 @@ export default function Labs() {
                 src="/elte.jpg"
                 alt="ELTE Logo"
                 width="100"
-                height="100"
+                height="240"
               />
             </div>
             <div className="info-txt">

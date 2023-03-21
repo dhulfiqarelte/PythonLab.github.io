@@ -1,9 +1,6 @@
-import Navbar from '@/pages/navbar'
-
 export default function Homepage() {
   return (
     <>
-      <Navbar />
       <div className="section home-page">
         <div className="container">
           <div className="info-page">

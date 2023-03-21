@@ -1,9 +1,6 @@
-import Navbar from '@/pages/navbar'
-
 export default function Faqs() {
     return (
     <>
-        <Navbar />
         <div className="section full-height">
             <div className="container">
             <h1 className="page-subtitle">Frequently Asked Questions</h1>

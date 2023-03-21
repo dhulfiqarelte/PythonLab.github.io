@@ -1,9 +1,6 @@
-import Navbar from '@/pages/navbar'
-
 export default function Instructors() {
     return (
     <>
-        <Navbar />
         <div className="section full-height">
             <div className="container">
             <h1 className="page-subtitle">Python Instructors at ELTE</h1>
